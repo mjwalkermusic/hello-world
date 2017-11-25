@@ -4,9 +4,9 @@
 
 Hey friends!
 
-My name is Michael- I used to tour full-time with my band.
+My name is Michael- I used to tour full-time with my band Paradise Fears.
 
-Here's a music video for one of our songs that just hit 1 million views: https://youtu.be/KdKu_J5ebMg
+Here's a music video for our song Sanctuary that just hit 1 million views: https://youtu.be/KdKu_J5ebMg
 
 Now that I'm married and want to start a family soon, I've been settling down with my wife in Orlando, FL.
 
@@ -28,38 +28,36 @@ Here are a list of features I'd like to include in the basic app:
 
 BASIC
 
-– Login/Logout
-  – 3 Different Tiers
-    - Sign up for Rays; Free
-    - Sign up for Moons; $10/month
-    - Sign up for Stars; $97/month
-    – Assign a class-specific emblem to each tier.
-– Featured Song/Video page
-– Previous Songs/Videos page
-– Community Forum
-  – Interact with other members
-– Push Notifications
-  – Send a push notification 5 minutes before I go on FB Live.
+- Login/Logout
+  - 3 Different Tiers
+      - Sign up for Rays; Free
+      - Sign up for Moons; $10/month
+      - Sign up for Stars; $97/month
+      - Assign a class-specific emblem to each tier.
+- Featured Song/Video page
+- Previous Songs/Videos page
+- Community Forum
+  - Interact with other members
+- Push Notifications
+  - Send a push notification 5 minutes before I go on FB Live.
   
 ADVANCED
 
-– Track Star Coins. Rewarded for:
-  – Referrals
-  – Participating in Community
-  – Streaming my music
-– Star Store
-  – Trade coins for rewards
-– Star of the Month
-  – Raffle happens once/month
-    – A Moon to get upgraded to a Star.
-    – They're downgraded automatically after 1 month.
- – Livestreams
-    – Watch (Rays)
-    – Watch and comment (Moons)
-  – Video Conferencing (Stars)  
-  
-– Separate users into 3 tiers: Rays (Free), Moons ($10/month), or Stars ($97/month)
+- Track Star Coins. Rewarded for things like:
+  - Referrals
+  - Participating in Community
+  - Streaming my music
+- Star Store
+  - Trade coins for rewards
+- Star of the Month
+  - Raffle happens once/month
+    - A Moon to get upgraded to a Star.
+    - They're downgraded automatically after 1 month.
+- Livestreams
+  - Watch (Rays)
+  - Watch and comment (Moons)
+  - Video Conferencing (Stars)  
 
 ////// Actions to Get There
 
-Build a rough version of the basic app as soon as possible. Measure, learn and have fun.
+Build a rough version of the basic app as soon as possible. Keep learning, adapting, and having fun.
